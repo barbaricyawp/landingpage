@@ -251,11 +251,11 @@ header nav li:last-child{
 }
 
 
-@media (max-width: 850px){
+@media (max-width: 1080px){
 
 	.our-work .grid li.small,
 	.our-work .grid li.large{
-		flex-basis: 100%;
+		flex-basis: 25%;
 	}
 
 }
